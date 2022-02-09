@@ -46,6 +46,8 @@ for any other OS: https://trufflesuite.com/ganache/
 20) Click on **Confirm**.
 21) Congratulation! You have voted to your desired party.
 
+### If you get any problem, Watch this video
+Link: https://drive.google.com/file/d/1knMMxk26wmVb_Y4RB6q7ffe3_gtC4oLN/view?usp=sharing
 
 
 
