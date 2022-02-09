@@ -19,6 +19,7 @@ Download Link: https://github.com/trufflesuite/ganache-ui/releases/download/v2.5
 for any other OS: https://trufflesuite.com/ganache/
 
 ### Install **MetaMask** Extension from your Browser <br/>
+
 Link: https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en
 ---
 ### Open this folder
