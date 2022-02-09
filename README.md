@@ -18,9 +18,8 @@ https://trufflesuite.com/docs/truffle/getting-started/installation
 Download Link: https://github.com/trufflesuite/ganache-ui/releases/download/v2.5.4/Ganache-2.5.4-win-x64.appx <br/>
 for any other OS: https://trufflesuite.com/ganache/
 
-### Install **MetaMask** Extension from your Browser <br/>
-
-Link: https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en
+### Install MetaMask Extension from your Browser <br/>
+###### Link: https://chrome.google.com/webstore/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en
 ---
 ### Open this folder
 
